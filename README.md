@@ -3,9 +3,6 @@
 **Applications Developer** from Abu Dhabi, UAE. I build mobile and full-stack apps with a focus on clean UI and real-world usability.
 
 - 🎓 Bachelor of Information Technology, **Applications Development**, Higher Colleges of Technology (HCT). Graduating December 2026
-- 💼 Former intern at **ADNOC HQ**, Digital Human Capital & Business Support Solutions: worked on **AI Copilot use cases** and designed **Figma** mockups
-- 🤖 Currently learning AI and Generative AI through the Al Ghurair TechUp Explorer program (Udacity)
-- 🌱 Open to **graduate developer roles** in the UAE
 
 ---
 
