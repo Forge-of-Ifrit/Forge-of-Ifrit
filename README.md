@@ -26,13 +26,6 @@
 
 ---
 
-### 📜 Certifications
-
-- Udacity **TechUp Explorer**, Technology Quotient learning plan (Abdulla Al Ghurair Foundation), 2026
-- **Project Management** (PMI-registered course, 64 PDUs), HCT, 2024
-- **Systems Analysis & Design** (IIBA-registered course, 64 CDUs), HCT, 2024
-
----
 
 ### 📫 Contact
 
